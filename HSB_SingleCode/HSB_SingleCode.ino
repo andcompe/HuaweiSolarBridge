@@ -15,7 +15,7 @@
 // This must be running with correct settings before you configure it in HA. I recommend to set a fixed IP for your Server side device in your DHCP.
 
 // SET THIS PARAMETER TO true to generate the LAN side ESP8266 code. It will use the "LAN SERVER SIDE" WiFi settings below.
-// SET THIS PARAMETER TO false to generate the LAN side ESP8266 code. It will use the "Huawei Solar Side" WiFi settings below.
+// SET THIS PARAMETER TO false to generate the Huawei Solar Side ESP8266 code. It will use the "Huawei Solar Side" WiFi settings below.
 
 #define IS_LAN_SIDE false
 //-------------------------------------------
