@@ -5,6 +5,12 @@ You need two ESP8266 wired together with RX and TX switched. And a power supply 
 
 The LAN server side contains a webserver that will show a simple log. Once you get the devices up and running, you can browse the ip and read this log. It is a good start if you can se the log.
 
-Here is a small picture of my circuit. Very simple.
+An overview picture of the Idea
+<img src="https://github.com/andcompe/HuaweiSolarBridge/blob/main/Overview.png" />
 
+
+Here is a small picture of my circuit. Very simple.
 <img src="https://github.com/andcompe/HuaweiSolarBridge/blob/main/Circuit.png" />
+
+
+Note. This was not designed with IT Security in mind. It was created to see if it could be used to connect to my Inverter. It worked well, and has been working for several months without a single issue. But it is likely not hacker safe. Use at your own risk.
